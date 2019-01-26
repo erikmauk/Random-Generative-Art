@@ -1,5 +1,5 @@
 # Random-Generative-Art
-Computational Art: Lab 4 (Randomly Generated Stars)
+Computational Art: Lab 4 Part 1 (Randomly Generated Stars)
 
 In this lab, I created a function for one single star and had a for loop make many iterations of these stars.
 
